@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\teamfighttacticsapi\\teamfighttacticsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|solutionrelative:teamfighttacticsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\teamfighttacticsapi\\teamfighttacticsapi\\extensionmethod\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|solutionrelative:teamfighttacticsapi\\extensionmethod\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\teamfighttacticsapi\\teamfighttacticsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD852846-1B91-4A19-9666-1FD0BD4A7690}|TeamFightTacticsAPI\\TeamFightTacticsAPI.csproj|solutionrelative:teamfighttacticsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TeamFightTacticsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\Program.cs",
+              "RelativeToolTip": "TeamFightTacticsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:29:33.3Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\ExtensionMethod\\Endpoints.cs",
+              "RelativeDocumentMoniker": "TeamFightTacticsAPI\\ExtensionMethod\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\ExtensionMethod\\Endpoints.cs",
+              "RelativeToolTip": "TeamFightTacticsAPI\\ExtensionMethod\\Endpoints.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:46:03.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeamFightTacticsAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TeamFightTacticsAPI\\TeamFightTacticsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TeamFightTacticsAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T18:38:02.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
